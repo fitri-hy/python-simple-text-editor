@@ -1,6 +1,8 @@
 # Python Simple Text Editor
-Simple python text editor project using tkinter
+
 <img src="./screenshoot.png"/>
+
+Simple python text editor project using tkinter
 ## Run
 ```sh
 git clone https://github.com/fitri-hy/python-simple-text-editor.git
